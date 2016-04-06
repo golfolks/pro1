@@ -1,5 +1,11 @@
-*   Merge branch 'master1' merged
+*   s
 |\  
+| * add
+* | n
+* | mylog
+* |   Merge branch 'master1' merged
+|\ \  
+| |/  
 | * committed for merging
 * |   commit
 |\ \  
