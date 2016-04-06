@@ -7,6 +7,7 @@
 
 <p>My first paragraph.</p>
 <p> This is my first merging experiment.<p>
+<p> Applying stash <p>
 
 </body>
 </html>
