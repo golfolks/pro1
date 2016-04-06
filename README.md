@@ -6,6 +6,7 @@
 
 <p>My first paragraph.</p>
 <p> This is my first merging experiment.<p>
+<p> git stash <p>
 
 </body>
 </html>
